@@ -32,4 +32,6 @@ How many states can you guess?
         Link: https://pandas.pydata.org/docs/reference/api/pandas.Series.mean.html#pandas.Series.mean ✔️
 
         print(data["temp"].mean()) 
+        
+    🟢  Conditional List Comprehension ✔️
 
